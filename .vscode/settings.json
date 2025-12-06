@@ -1,6 +1,6 @@
 {
-    "python.defaultInterpreterPath": "D:/Work_Study/IT/Data/Projects/food_vision_ai/.venv/Scripts/python.exe",
-    "terminal.integrated.cwd": "D:/Work_Study/IT/Data/Projects/food_vision_ai",
+    "python.defaultInterpreterPath": "D:/Work_Study/IT/Data/Projects/vision_pipeline/.venv/Scripts/python.exe",
+    "terminal.integrated.cwd": "D:/Work_Study/IT/Data/Projects/vision_pipeline",
     "python.terminal.activateEnvironment": true,
     "python.analysis.autoImportCompletions": true,
     "editor.formatOnSave": true,
