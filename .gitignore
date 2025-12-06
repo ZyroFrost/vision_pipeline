@@ -4,8 +4,8 @@
 venv/
 env/
 
-# Streamlit
-.streamlit
+# Data
+data/
 
 # IDE
 .vscode/
